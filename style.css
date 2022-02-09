@@ -5,6 +5,10 @@ body{
     padding: 0;
     margin: 0;
 }
+
+.oppo{
+    scroll-snap-type: y mandatory;  
+}
 .prima_pagina{
     background: url(img/chadWallpaper);
     background-size: cover;
