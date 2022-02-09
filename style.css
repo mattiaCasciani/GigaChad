@@ -18,6 +18,7 @@ body{
     width: 100%;
     text-align: center;
     height: 100vh;
+    scroll-snap-align: start;
 }
 
 .seconda_pagina{
@@ -30,6 +31,7 @@ body{
     text-align: center;
     background-color: rgba(0, 0, 0, 0.4);
     height: 100vh;
+    scroll-snap-align: start;
 }
 
 .terza_pagina{
@@ -42,6 +44,7 @@ body{
     text-align: center;
     background-color: rgba(0, 0, 0, 0.3);
     height: 100vh;
+    scroll-snap-align: start;
 }
 
 .quarta_pagina{
@@ -54,6 +57,7 @@ body{
     text-align: center;
     background-color: rgba(0, 0, 0, 0.2);
     height: 100vh;
+    scroll-snap-align: start;
 }
 
 .quinta_pagina{
@@ -66,6 +70,7 @@ body{
     text-align: center;
     background-color: rgba(0, 0, 0, 0.1);
     height: 100vh;
+    scroll-snap-align: start;
 }
 
 .sesta_pagina{
@@ -78,6 +83,7 @@ body{
     text-align: center;
     background-color: rgba(0, 0, 0, 0);
     height: 100vh;
+    scroll-snap-align: start;
 }
 
 .giga{
