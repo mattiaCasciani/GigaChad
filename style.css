@@ -7,6 +7,7 @@ body{
 }
 
 .oppo{
+    height: fit-content;
     scroll-snap-type: y mandatory;  
 }
 .prima_pagina{
